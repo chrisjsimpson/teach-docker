@@ -17,3 +17,7 @@ docker build -t helloworld .
 ```
 docker run -p 8081:8081 helloworld
 ```
+
+# Challenge
+
+Build a similar image which uses the Java runtime
